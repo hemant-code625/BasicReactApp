@@ -45,9 +45,13 @@ TextUtils welcomes contributions from the community. If you find a bug, have an 
 
 Fork the repository.
 Create a new branch for your feature: git checkout -b my-feature.
+
 Make the necessary changes and commit them: git commit -am 'Add new feature'.
+
 Push the branch to your forked repository: git push origin my-feature.
+
 Open a pull request in this repository with a detailed description of your changes.
+
 Please ensure that your code follows the existing code style and includes appropriate tests.
 
 <h1>License</h1>
