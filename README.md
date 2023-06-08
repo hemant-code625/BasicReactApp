@@ -29,10 +29,16 @@ These features make TextUtils a versatile tool for anyone working with text, whe
 To set up the TextUtils website locally, follow these steps:
 
 Clone the repository: git clone https://github.com/your-username/textutils.git
+
 Navigate to the project directory: cd textutils
+
 Install the required dependencies: npm install
+
 Start the development server: npm start
-The TextUtils website should now be accessible locally at http://localhost:3000. Feel free to explore and make changes to the code as needed.
+
+The TextUtils website should now be accessible locally at http://localhost:3000. 
+
+Feel free to explore and make changes to the code as needed.
 
 <h1>Contributing</h1>
 TextUtils welcomes contributions from the community. If you find a bug, have an idea for an enhancement, or would like to add a new feature, please follow these steps:
