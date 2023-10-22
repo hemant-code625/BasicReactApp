@@ -30,7 +30,7 @@ These above features will make TextUtils a versatile tool for anyone working wit
 <h1>Getting Started</h1>
 To set up the TextUtils website locally, follow these steps:
 
-Clone the repository: git clone https://github.com/your-username/textutils.git
+Clone the repository: git clone https://github.com/hemant-code625/BasicReactApp.git
 
 Navigate to the project directory: cd textutils
 
@@ -58,15 +58,3 @@ Please ensure that your code follows the existing code style and includes approp
 
 <h1>License</h1>
 The TextUtils project is licensed under the MIT License. You can find the full license text in the LICENSE file.
-
-<h1>Acknowledgements</h1>
-TextUtils utilizes several open-source libraries and frameworks. The following are the main dependencies used in this project:
-
-React: https://reactjs.org
-
-Redux: https://redux.js.org
-
-Bootstrap: https://getbootstrap.com
-
-Highlight.js: https://highlightjs.org
-
